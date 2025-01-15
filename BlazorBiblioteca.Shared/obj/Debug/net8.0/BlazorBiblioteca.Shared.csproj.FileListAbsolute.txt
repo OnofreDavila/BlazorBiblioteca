@@ -1,0 +1,11 @@
+D:\Documentos\proyectosBlazor\BlazorBiblioteca\BlazorBiblioteca\BlazorBiblioteca.Shared\bin\Debug\net8.0\BlazorBiblioteca.Shared.deps.json
+D:\Documentos\proyectosBlazor\BlazorBiblioteca\BlazorBiblioteca\BlazorBiblioteca.Shared\bin\Debug\net8.0\BlazorBiblioteca.Shared.dll
+D:\Documentos\proyectosBlazor\BlazorBiblioteca\BlazorBiblioteca\BlazorBiblioteca.Shared\bin\Debug\net8.0\BlazorBiblioteca.Shared.pdb
+D:\Documentos\proyectosBlazor\BlazorBiblioteca\BlazorBiblioteca\BlazorBiblioteca.Shared\obj\Debug\net8.0\BlazorBiblioteca.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\proyectosBlazor\BlazorBiblioteca\BlazorBiblioteca\BlazorBiblioteca.Shared\obj\Debug\net8.0\BlazorBiblioteca.Shared.AssemblyInfoInputs.cache
+D:\Documentos\proyectosBlazor\BlazorBiblioteca\BlazorBiblioteca\BlazorBiblioteca.Shared\obj\Debug\net8.0\BlazorBiblioteca.Shared.AssemblyInfo.cs
+D:\Documentos\proyectosBlazor\BlazorBiblioteca\BlazorBiblioteca\BlazorBiblioteca.Shared\obj\Debug\net8.0\BlazorBiblioteca.Shared.csproj.CoreCompileInputs.cache
+D:\Documentos\proyectosBlazor\BlazorBiblioteca\BlazorBiblioteca\BlazorBiblioteca.Shared\obj\Debug\net8.0\BlazorBiblioteca.Shared.dll
+D:\Documentos\proyectosBlazor\BlazorBiblioteca\BlazorBiblioteca\BlazorBiblioteca.Shared\obj\Debug\net8.0\refint\BlazorBiblioteca.Shared.dll
+D:\Documentos\proyectosBlazor\BlazorBiblioteca\BlazorBiblioteca\BlazorBiblioteca.Shared\obj\Debug\net8.0\BlazorBiblioteca.Shared.pdb
+D:\Documentos\proyectosBlazor\BlazorBiblioteca\BlazorBiblioteca\BlazorBiblioteca.Shared\obj\Debug\net8.0\ref\BlazorBiblioteca.Shared.dll
